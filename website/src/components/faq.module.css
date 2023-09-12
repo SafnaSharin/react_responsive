@@ -1,0 +1,24 @@
+.div1{
+    background-color: rgb(220, 243, 234);
+}
+.row{
+    padding-inline: 90px;
+}
+.para{
+    font-size: medium;
+    padding-top: 48px;
+    padding-bottom: 10px;
+}
+.para1{
+    font-size: medium;
+    padding-top: 48px;
+    font-family: auto;
+    padding-bottom: 10px;
+}
+.head{
+    text-align: center;
+    padding-bottom: 58px;
+    padding-top: 59px;
+    font-weight: 700;
+    color: rgb(9, 76, 89);
+}

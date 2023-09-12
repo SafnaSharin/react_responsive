@@ -1,0 +1,61 @@
+.div{
+   background-color: rgb(9, 76, 89);;
+}
+.row1{
+    justify-content: center!important;
+}
+.content1{
+    color: white;
+    text-align: center;
+    font-weight: 800;
+    padding-bottom: 66px;
+    padding-top: 66px;
+    font-size: 43px;
+}
+.img1{
+    height: auto;
+    max-width: 100%;
+}
+.head1{
+    text-align: center;
+    padding-top: 54px;
+    font-size: xxx-large;
+    font-weight: 700;
+}
+.para1{
+    text-align: center;
+    padding-inline: 74px;
+    font-size: smaller;
+    padding-top: 28px;
+    color: gray;
+}
+.btn{
+    text-align: center!important;
+}
+.div3{
+    background-color: rgb(220, 243, 234);
+    padding-bottom: 60px;
+}
+.head2{
+    color: rgb(9, 76, 89);
+    text-align: center;
+    font-weight: 800;
+    padding-bottom: 40px;
+    padding-top: 52px;
+    font-family: revert;
+}
+.div4{
+    padding-inline: 88px;
+}
+.card{
+    background: transparent;
+    border: none;
+}
+.body1{
+    text-align: center;
+    font-family: math;
+}
+.title{
+    font-weight: 500;
+    font-size: x-large;
+}

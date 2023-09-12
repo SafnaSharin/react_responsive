@@ -1,0 +1,51 @@
+.footer{
+    background-color: black;
+    max-width: 2118px!important;
+}
+.para1{
+    text-align: center;
+    color: white;
+    font-size: x-large;
+    font-weight: 700;
+    padding-top: 58px;
+}
+.para2{
+    color: white;
+    text-align: center;
+    padding-top: 16px;
+}
+.para3{
+    color: white;
+    text-align: center;
+    padding-top: 21px;
+}
+.icon1{
+    padding-right: 88px;
+}
+.icon2{
+  position: absolute;
+}
+.icon3{
+    position: absolute;
+    padding-left: 88px;
+}
+.para3{
+    color: white;
+    text-align: center;
+    padding-top: 16px;
+}
+.para4{
+    color: white;
+    text-decoration: underline;
+    text-decoration-color: #ff7600;
+    text-align: center;
+    font-weight: 700;
+    font-size: x-large;
+    padding-top: 91px;
+}
+.para5{
+    color: white;
+    text-align: center;
+    padding-top: 16px;
+    padding-bottom: 47px;
+}

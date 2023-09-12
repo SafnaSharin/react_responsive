@@ -1,0 +1,75 @@
+.row{
+    background-image: url(../images/_stock_store_collection.jpg);
+  
+}
+.para1{
+    padding-left: 91px;
+    font-size: -webkit-xxx-large;
+    font-weight: bolder;
+    padding-top: 160px;
+    padding-bottom: 160px;
+
+}
+.row1{
+    padding-bottom: 33px;
+    padding-top: 28px;
+}
+.para2{
+    color: #2e2e2e;
+    padding-left: 55px;
+    margin: 0;
+    font-size: initial;
+}
+.btn{
+   border-radius: revert;
+}
+.btndiv{
+    text-align: end;
+    padding-bottom: -15px;
+    padding-top: -32px;
+    position: relative;
+    padding-right: 79px;
+    padding-top: 21px;
+    padding-bottom: 21px;
+}
+.btn1{
+    background: transparent;
+    color: black;
+    border-color: black;
+    border-radius: 1px;
+    font-size: small;
+   
+}
+.btnnd{
+    background: transparent;
+    color: black;
+    border-color: black;
+    border-radius: 1px;
+    font-size: small;
+   
+}
+.btnp{
+    font-size: inherit;
+}
+.btnp1{
+    font-size: inherit;
+}
+.div2{
+    padding-inline: 92px;
+}
+.img1{
+    height: auto;
+    max-width: 100%;
+    padding-inline: 22px;
+    padding-bottom: 50px;
+    padding-top: 35px;
+}
+.detail{
+    padding-top: 35px;
+    color: gray;
+}
+.headings{
+    font-size: x-large;
+    font-family: auto;
+    color: gray;
+}

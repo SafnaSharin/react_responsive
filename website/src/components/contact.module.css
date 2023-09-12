@@ -1,0 +1,26 @@
+.div1{
+    background-color: rgb(9, 76, 89); 
+}
+.head{
+    text-align: center;
+    color: white;
+    padding-top: 78px;
+    font-size: xxx-large;
+    font-weight: 700;
+    font-family: sans-serif;
+}
+
+.para{
+    color: white;
+    text-align: center;
+    padding-bottom: 86px;
+}
+.form{
+    padding-inline: 122px;
+    padding-top: 60px;
+    padding-bottom: 66px;
+}
+.label{
+    border-radius: 0px;
+    border-color: black;
+}

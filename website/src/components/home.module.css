@@ -1,0 +1,50 @@
+.card{
+    border: none;
+}
+.head{
+    padding-left: 140px;
+    /* padding-top: 120px; */
+    font-weight: bolder;
+    font-size: xxx-large;
+}
+.container{
+    position: relative;
+    top: 124px;
+}
+.para{
+    padding-left: 11px;
+    color: gray;
+   
+}
+.img1{
+    padding-inline: 15px;
+    padding-top: 10px;
+    height: 511px;
+}
+.img2{
+    padding-inline: 15px;
+    padding-top: 10px;
+    height: 511px;
+}
+.btn{
+    border-radius: revert;
+}
+#div3{
+    margin-top: 185px;
+    background-color: rgb(220, 243, 234);
+    
+}
+.cardg{
+    padding-top: 91px;
+    padding-inline: 62px;
+    padding-bottom: 105px;
+}
+.img3,.img4,.img5,.img6{
+    border: none;
+    padding-inline: 15px;
+    height: 236px;
+}
+.card1{
+    border: none;
+    background-color: rgb(220, 243, 234);
+}

@@ -1,0 +1,15 @@
+
+.container{
+    max-width: 1300px!important;
+   
+}
+.nav li{
+    display: flex;
+    
+
+}
+.head{
+    font-size: x-large;
+    font-weight: bolder;
+    color: gray;
+}
